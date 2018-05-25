@@ -1,3 +1,0 @@
-tar:Clean
-Clean:
-	rm -rf Server Client  FIFO
